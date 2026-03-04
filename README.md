@@ -1,3 +1,5 @@
+![Programm Preview](preview.png)
+
 How it works:
 
 In the maps folder, there are map images — they make up the overall map pool. The program selects 3 maps from this pool for each round, excluding the maps that were chosen in previous rounds.
